@@ -74,7 +74,7 @@ Below is a suggested sequence for completing this task:
 
 (If you don't need hand-holding, feel free to ignore the suggestions. For an even more complex challenge, delete the contents of the App component and implement the form entirely from scratch. The only requirement is that the functionality of your form matches that of the mock.)
 
-1. Create a state to track the values of the form. This state could be an object with `username`, `favLanguage`, `favFood`, and `agreement` keys.
+x1. Create a state to track the values of the form. This state could be an object with `username`, `favLanguage`, `favFood`, and `agreement` keys.
 
 2. Create states to store the success and failure messages from the server.
 
